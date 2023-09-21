@@ -1,0 +1,15 @@
+/Users/deepdesai/Projects/SortingLab/SortingLab/bin/Debug/net7.0/SortingLab
+/Users/deepdesai/Projects/SortingLab/SortingLab/bin/Debug/net7.0/SortingLab.deps.json
+/Users/deepdesai/Projects/SortingLab/SortingLab/bin/Debug/net7.0/SortingLab.runtimeconfig.json
+/Users/deepdesai/Projects/SortingLab/SortingLab/bin/Debug/net7.0/SortingLab.dll
+/Users/deepdesai/Projects/SortingLab/SortingLab/bin/Debug/net7.0/SortingLab.pdb
+/Users/deepdesai/Projects/SortingLab/SortingLab/obj/Debug/net7.0/SortingLab.csproj.AssemblyReference.cache
+/Users/deepdesai/Projects/SortingLab/SortingLab/obj/Debug/net7.0/SortingLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deepdesai/Projects/SortingLab/SortingLab/obj/Debug/net7.0/SortingLab.AssemblyInfoInputs.cache
+/Users/deepdesai/Projects/SortingLab/SortingLab/obj/Debug/net7.0/SortingLab.AssemblyInfo.cs
+/Users/deepdesai/Projects/SortingLab/SortingLab/obj/Debug/net7.0/SortingLab.csproj.CoreCompileInputs.cache
+/Users/deepdesai/Projects/SortingLab/SortingLab/obj/Debug/net7.0/SortingLab.dll
+/Users/deepdesai/Projects/SortingLab/SortingLab/obj/Debug/net7.0/refint/SortingLab.dll
+/Users/deepdesai/Projects/SortingLab/SortingLab/obj/Debug/net7.0/SortingLab.pdb
+/Users/deepdesai/Projects/SortingLab/SortingLab/obj/Debug/net7.0/SortingLab.genruntimeconfig.cache
+/Users/deepdesai/Projects/SortingLab/SortingLab/obj/Debug/net7.0/ref/SortingLab.dll
